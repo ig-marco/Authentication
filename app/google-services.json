@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068735381934",
+    "firebase_url": "https://student-communication-portal.firebaseio.com",
+    "project_id": "student-communication-portal",
+    "storage_bucket": "student-communication-portal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068735381934:android:5163a5251c4c05b805483f",
+        "android_client_info": {
+          "package_name": "com.example.studentcommunicationportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068735381934-oe0pknv7hmppv03b8knnu637oa6ebkek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentcommunicationportal",
+            "certificate_hash": "c682db644881f451e3168490fe1d731c29193cd6"
+          }
+        },
+        {
+          "client_id": "1068735381934-4vop2mvfhm4c1p3gsnash6fj2i6smej0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6vW8MrMMLItp2lGrapUquOIYEt-qNZsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068735381934-4vop2mvfhm4c1p3gsnash6fj2i6smej0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
